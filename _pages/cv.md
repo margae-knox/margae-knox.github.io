@@ -10,3 +10,4 @@ redirect_from:
 Download available [here.](https://github.com/margae-knox/margae-knox.github.io/files/MKnox_CV_2022AUG_web.pdf)
 
 <a href="margae-knox.github.io/files/MKnox_CV_2022AUG_web.pdf" target="_blank">PDF.</a>
+<embed src="[https://sumanbogati.github.io/sample.pdf](https://github.com/margae-knox/margae-knox.github.io/files/MKnox_CV_2022AUG_web.pdf)" type="application/pdf" />
