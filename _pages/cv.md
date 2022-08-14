@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[MKnox_CV_2020NOV.docx](https://github.com/margae-knox/margae-knox.github.io/files/9334083/MKnox_CV_2020NOV.docx)
+
 {% include base_path %}
 
 Education
