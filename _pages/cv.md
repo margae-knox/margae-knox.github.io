@@ -8,5 +8,4 @@ redirect_from:
 ---
 
 Download available [here.](https://margae-knox.github.io/files/MKnox_CV_2022AUG_web.pdf)
-
-<object data="margae-knox.github.io/files/MKnox_CV_2022AUG_web.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="(https://margae-knox.github.io/files/MKnox_CV_2022AUG_web.pdf)" width="1000" height="1000" type='application/pdf'></object>
