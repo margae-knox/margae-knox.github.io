@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Margae Knox"
+title                    : "Margae Knox, MPH"
 title_separator          : "-"
 name                     : &name "Margae Knox"
 description              : &description "(c) 2022 Margae Knox."
@@ -85,7 +85,7 @@ author:
   bio              : "PhD Candidate in Health Policy at UC Berkeley"
   location         : "Berkeley, CA"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Knox%2C+Margae%5BAuthor%5D&sort=date"
+  pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=Knox%2C+Margae%5BAuthor%5D&sort=date"
   googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4cFQ2CGnUIWo0oO5Ih158F0XS292xkNUZeluJZmfjbHRtrnwpTV6WttLBEOc7zFBuc4a8dsM53Oq0GyBIc3xcLuj7JOQ&user=sNWlVW4AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
