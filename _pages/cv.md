@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download [here] (https://github.com/margae-knox/margae-knox.github.io/_pages/MKnox_CV_2022AUG_web.pdf)
+Download[here](https://margae-knox.github.io/_pages/MKnox_CV_2022AUG_web.pdf)
 
 <object data="{{ post.files/_pages/MKnox_CV_2022AUG_web.pdf }}" width="1000" height="1000" type='application/pdf'/>
 
