@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 2"
 collection: publications
-permalink: /publication/2018-burnout
+permalink: /publication/2018-burnout-measures
 excerpt: 'Burnout is a pervasive concern across healthcare professions. In this paper, we identify that two commonly used burnout measurements yield starkly different results in the same population. For example, 52% of clinicians report burnout based on the Maslach Burnout Inventory while 29% report burnout in a self-defined, single-item question. Both measures demonstrate concurrent validity but are not interchangeable. These findings are important for researchers, health systems, and leaders working to evaluate and improve burnout in their own settings and who want to compare  results across settings. 
 date: 2018
 venue: 'Journal of General Internal Medicine'
