@@ -12,7 +12,7 @@ As case management programs proliferate, success is traditionally measured by de
 
 This paper was featured in [The Better Care Playbook for People with Complex Needs.](https://www.bettercareplaybook.org/resources/defining-case-management-success-qualitative-study-case-manager-perspectives-large-scale)
 
-<i>Recommended citation:</i> Knox, M., Esteban, E. E., Hernandez, E. A., Fleming, M. D., Safaeinilli, N., & Brewster, A. L. (2022). "Defining case management success: a qualitative study of case manager perspectives from a large-scale health and social needs support program." <i>BMJ Open Quality</i>. 11(2), e001807.
+<font size="-2">Recommended citation:</font> Knox, M., Esteban, E. E., Hernandez, E. A., Fleming, M. D., Safaeinilli, N., & Brewster, A. L. (2022). "Defining case management success: a qualitative study of case manager perspectives from a large-scale health and social needs support program." <i>BMJ Open Quality</i>. 11(2), e001807.
 
 <hr>
 
