@@ -19,7 +19,7 @@ This paper was featured in the [Better Care Playbook for People with Complex Nee
 
 ### Maslach burnout inventory and a self-defined, single-item burnout measure produce different clinician and staff burnout estimates
 
-Burnout is a pervasive concern across healthcare professions. In this paper, we identify how two common burnout measurements yield starkly different results. For example, among the same respondents, 52% of clinicians were burned out based on the Maslach Burnout Inventory compared to 29% based on a self-defined, single-item question. Both measures demonstrate concurrent validity however they are not interchangeable. These findings are important for researchers, health systems, and leaders working to evaluate and improve burnout in their own settings and who want to compare results across settings. 
+Burnout is a pervasive concern across healthcare professions. In this paper, we identify how two common burnout measurements yield starkly different results. For example, among the same respondents, 52% of clinicians were burned out based on the Maslach Burnout Inventory compared to 29% based on a self-defined, single-item question. Both measures demonstrate concurrent validity however they are not interchangeable. These findings are important for researchers, health systems, and leaders working to improve burnout in their own settings and who want to compare results across settings. 
 
 <i>Recommended citation:</i> Knox, M., Willard-Grace, R., Huang, B., & Grumbach, K. (2018). "Maslach burnout inventory and a self-defined, single-item burnout measure produce different clinician and staff burnout estimates." <i>Journal of General Internal Medicine</i>. 33(8), 1344-1351. 
 
