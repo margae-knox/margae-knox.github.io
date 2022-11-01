@@ -29,7 +29,7 @@ Burnout is a pervasive concern across healthcare professions. In this paper, we 
 
 For a complete list of publications, see [my CV.](https://margae-knox.github.io/cv/)
 
-You can also find my articles on [Google Scholar.](https://scholar.google.com/citations?user=sNWlVW4AAAAJ&hl=en&oi=ao)
+You can also find my articles on [Google Scholar.](https://scholar.google.com/citations?user=sNWlVW4AAAAJ&hl=en&oi=ao) 
 
 
 
